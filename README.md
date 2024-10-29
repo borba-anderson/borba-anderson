@@ -1,22 +1,19 @@
 ## 👋 Olá! Seja muito bem-vindo(a) ao meu perfil!
 
 💼 Comprador Industrial
-Empresa: Origetec Máquinas para Fundição e Automação
-Descrição: Gerenciamento de negociações e aquisição de materiais e serviços.
+🔧 Na Origetec Máquinas para Fundição e Automação, sou o responsável por transformar negociações em resultados! Com expertise em gerenciamento de processos estratégicos, estou sempre em busca de materiais e serviços de qualidade que elevam nossa produção.
 
 📊 Analista Tributário
-Serviços: Declaração de IRPF e Carnê-Leão
-Descrição: Consultoria tributária para profissionais independentes, incluindo organização de rendimentos e deduções.
+📑 Especialista em Declaração de IRPF e Carnê-Leão! Ofereço consultoria tributária personalizada para profissionais independentes. Minha missão é ajudá-lo a organizar seus rendimentos e deduções para que você possa focar no que realmente importa: o seu sucesso. 
 
 📋 Consultor MEI
-Serviços: Abertura e manutenção de MEIs
-Descrição: Suporte no processo burocrático, envio de notas fiscais e pagamento de tributos.
+🚀 Pronto para abrir ou manter seu MEI? Estou aqui para oferecer um suporte completo, desde o processo burocrático até o envio de notas fiscais e o pagamento de tributos. Comigo, você terá tranquilidade para se concentrar no crescimento do seu negócio!
 
 📚 Fé e Teologia
-Descrição: Apaixonado por Cristo, buscando crescimento em fé e conhecimento na teologia reformada.
+✨ Apaixonado por Cristo! Acredito que a fé é um pilar essencial em nossa jornada. Estou sempre buscando meu crescimento profundo em conhecimento e intimidado com Deus. 
 
 🎵 Música e Esportes
-Descrição: Gosto de tocar violão, acampar, fazer trilhas e jogar futebol.
+🌲 Nos momentos livres, você pode me encontrar tocando violão, acampando ou fazendo trilhas na natureza. Além disso, sou fã de futebol e de qualquer atividade esportiva que me mantenha ativo!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
