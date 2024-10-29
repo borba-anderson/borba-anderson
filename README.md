@@ -2,22 +2,21 @@
 
 💼 Comprador Industrial
 Empresa: Origetec Máquinas para Fundição e Automação
-Descrição: Gerenciamento de negociações e processos estratégicos de aquisição de materiais e serviços.
+Descrição: Gerenciamento de negociações e aquisição de materiais e serviços.
 
 📊 Analista Tributário
 Serviços: Declaração de IRPF e Carnê-Leão
-Descrição: Consultoria tributária personalizada para profissionais independentes, incluindo auxílio na organização de rendimentos, deduções permitidas (como despesas de escritório) e orientação para o uso correto do Carnê-Leão.
+Descrição: Consultoria tributária para profissionais independentes, incluindo organização de rendimentos e deduções.
 
 📋 Consultor MEI
 Serviços: Abertura e manutenção de MEIs
-Descrição: Suporte completo, desde o processo burocrático até o envio de notas fiscais, controle de obrigações acessórias e pagamento de tributos (DAS).
+Descrição: Suporte no processo burocrático, envio de notas fiscais e pagamento de tributos.
 
-Interesses Pessoais
 📚 Fé e Teologia
-Descrição: Apaixonado por seguir a Cristo, sempre em busca de crescimento em fé, conhecimento e intimidade com Deus, com fundamento na teologia reformada.
+Descrição: Apaixonado por Cristo, buscando crescimento em fé e conhecimento na teologia reformada.
 
 🎵 Música e Esportes
-Descrição: Nos momentos livres, gosto de tocar violão, acampar e fazer trilhas na natureza, além de jogar futebol e me envolver em outras atividades esportivas.
+Descrição: Gosto de tocar violão, acampar, fazer trilhas e jogar futebol.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
