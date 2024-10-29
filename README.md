@@ -1,5 +1,5 @@
 ## 👋 Olá! Seja muito bem-vindo(a) ao meu perfil!
-Perfil Profissional
+
 💼 Comprador Industrial
 Empresa: Origetec Máquinas para Fundição e Automação
 Descrição: Gerenciamento de negociações e processos estratégicos de aquisição de materiais e serviços.
