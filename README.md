@@ -1,9 +1,23 @@
 ## 👋 Olá! Seja muito bem-vindo(a) ao meu perfil!
-💼 Comprador Industrial na Origetec Máquinas para Fundição e Automação , gerenciando negociações e processos estratégicos de aquisição de materiais e serviços.
-📊 Analista especializado na declaração de IRPF e Carnê-Leão , oferecendo consultoria tributária personalizada para profissionais independentes. Auxílio na organização de rendimentos, deduções permitidas (como despesas de escritório) e orientação para o uso correto do Carnê-Leão.
-📋 Consultor MEI (Microempreendedor Individual): Oferece suporte completo para a abertura e manutenção de MEIs, desde o processo burocrático até o envio de notas fiscais, controle de obrigações acessórias e pagamento de tributos (DAS).
-📚 Apaixonado por seguir a Cristo , sempre em busca de crescimento em fé, conhecimento e intimidade com Deus, tendo como fundamento a teologia reformada .
-🎵 Amante de música e esportes : Nos momentos livres, gosto de tocar violão, acampar e fazer trilhas na natureza, além de jogar futebol e me envolver em outras atividades esportivas.
+Perfil Profissional
+💼 Comprador Industrial
+Empresa: Origetec Máquinas para Fundição e Automação
+Descrição: Gerenciamento de negociações e processos estratégicos de aquisição de materiais e serviços.
+
+📊 Analista Tributário
+Serviços: Declaração de IRPF e Carnê-Leão
+Descrição: Consultoria tributária personalizada para profissionais independentes, incluindo auxílio na organização de rendimentos, deduções permitidas (como despesas de escritório) e orientação para o uso correto do Carnê-Leão.
+
+📋 Consultor MEI
+Serviços: Abertura e manutenção de MEIs
+Descrição: Suporte completo, desde o processo burocrático até o envio de notas fiscais, controle de obrigações acessórias e pagamento de tributos (DAS).
+
+Interesses Pessoais
+📚 Fé e Teologia
+Descrição: Apaixonado por seguir a Cristo, sempre em busca de crescimento em fé, conhecimento e intimidade com Deus, com fundamento na teologia reformada.
+
+🎵 Música e Esportes
+Descrição: Nos momentos livres, gosto de tocar violão, acampar e fazer trilhas na natureza, além de jogar futebol e me envolver em outras atividades esportivas.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
