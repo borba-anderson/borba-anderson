@@ -1,4 +1,6 @@
-<img align="center" width="100%" src="https://github.com/borba-anderson"/>
+Anderson Borba:
+
+<img align="center" width=100% src="https://github.com/RicardoMouraa/RicardoMouraa/assets/106688139/a23c252f-6a3d-42d8-96a0-0d6a3839fb96"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Sou Anderson Borba, profissional na área de compras industriais e contabilidade financeira. Minha experiência inclui a negociação de materiais e serviços para a Origetec Máquinas para Fundição e Automação, além de atuar no controle financeiro. Tenho um forte interesse por eficiência, processos de compras e soluções tecnológicas que otimizem os recursos. <br><br> Tenho também uma paixão por esportes e atividades em equipe, além de um grande interesse por teologia e Filosofia Cristã.</p>&nbsp;
@@ -60,12 +62,10 @@
 
 ## Contatos:
 
-<div> 
-  <a href="https://www.instagram.com/andersonnborba" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:anderson.borba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andersonborba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=borba-anderson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=borba-anderson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Stats" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=borba-anderson&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-&nbsp;
-&nbsp;
 
 <p align="center">Estou pronto para otimizar seus processos e contribuir com soluções eficientes!</p>
