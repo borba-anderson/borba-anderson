@@ -1,19 +1,7 @@
-## 👋 Olá! Seja muito bem-vindo(a) ao meu perfil!
+<img align="center" width=100% src="https://github.com/AndersonBorba/AndersonBorba/assets/106688139/a23c252f-6a3d-42d8-96a0-0d6a3839fb96"/>
+&nbsp;&nbsp;&nbsp;
 
-💼 Comprador Industrial
-🔧 Na Origetec Máquinas para Fundição e Automação, sou o responsável por transformar negociações em resultados! Com expertise em gerenciamento de processos estratégicos, estou sempre em busca de materiais e serviços de qualidade que elevam nossa produção.
-
-📊 Analista Tributário
-📑 Especialista em Declaração de IRPF e Carnê-Leão! Ofereço consultoria tributária personalizada para profissionais independentes. Minha missão é ajudá-lo a organizar seus rendimentos e deduções para que você possa focar no que realmente importa: o seu sucesso. 
-
-📋 Consultor MEI
-🚀 Pronto para abrir ou manter seu MEI? Estou aqui para oferecer um suporte completo, desde o processo burocrático até o envio de notas fiscais e o pagamento de tributos. Comigo, você terá tranquilidade para se concentrar no crescimento do seu negócio!
-
-📚 Fé e Teologia
-✨ Apaixonado por Cristo! Acredito que a fé é um pilar essencial em nossa jornada. Estou sempre buscando meu crescimento profundo em conhecimento e intimidado com Deus. 
-
-🎵 Música e Esportes
-🌲 Nos momentos livres, você pode me encontrar tocando violão, acampando ou fazendo trilhas na natureza. Além disso, sou fã de futebol e de qualquer atividade esportiva que me mantenha ativo!
+<p align="center">I ❤️ managing strategic processes and delivering results. <br><br> As a **Purchasing Manager** at Origetec, I focus on sourcing quality materials and services. I also specialize in **Tax Analysis** for IRPF and self-employed individuals, offering personalized advice. I provide **consulting for MEIs**, from bureaucratic tasks to tax filings. Passionate about **faith** and **theology**, I seek spiritual growth. In my free time, I enjoy **music**, **sports**, and outdoor activities like hiking and camping.</p>&nbsp;
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anderson-borba-957394302/" target="_blank">
@@ -30,7 +18,8 @@
   </a>
 </div>
 
-###
+&nbsp;
+&nbsp;
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=borba-anderson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -38,7 +27,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=borba-anderson&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+&nbsp;
+&nbsp;
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
@@ -53,5 +43,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
