@@ -1,7 +1,7 @@
 <h1 align="center">Anderson Borba</h1>
 
 <p align="center">
-  Software Engineer focused on full-stack applications, internal tools and business automation.
+  Building full-stack applications and business automation tools.
 </p>
 
 <p align="center">
@@ -17,15 +17,8 @@
 
 ### About
 
-I build software to solve real business problems.
+I'm developing practical software solutions focused on internal tools, dashboards, automation and business operations.
 
-My focus is on full-stack development, internal systems, dashboards, automation and data-driven applications. I enjoy turning operational complexity into simple, reliable and useful software.
+My background in business processes helps me understand real operational problems and turn them into useful applications.
 
-Currently improving my skills in software architecture, clean code, APIs and scalable application development.
-
----
-
-### Tech Stack
-
-```txt
-JavaScript · TypeScript · React · Node.js · Python · SQL
+Currently studying and building with JavaScript, TypeScript, React, Node.js, Python and SQL.
